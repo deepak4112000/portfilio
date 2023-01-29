@@ -1,0 +1,21 @@
+{
+  "name": "handlerbar",
+  "version": "1.0.0",
+  "description": "it's my first template engine with express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak keshari",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "@google-cloud/local-auth": "^2.1.0",
+    "express-handlebars": "^6.0.6",
+    "expresss": "^0.0.0",
+    "font-awesome": "^4.7.0",
+    "googleapis": "^105.0.0",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.20"
+  }
+}
